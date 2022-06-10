@@ -6,4 +6,6 @@
 * Хотите предложить улучшение?
 * Хотите разобраться в чём дело?
 
-:point_right: [Заведите новое ишью](https://github.com/makehtml/calendar-issues/issues/new/choose), и мы придём на помощь :muscle:
+:point_right: [Заведите новое ишью](https://github.com/makehtml/calendar-issues/issues/new/choose), и мы придём на помощь. :muscle:
+
+Или посмотрите :point_right: [список текущих задач](https://github.com/makehtml/calendar-issues/issues).
